@@ -58,8 +58,8 @@ The dataset used in this project is available in this repository.
 ```
 HR-Analytics-Dashboard/
 │
-├── Dashboard.png
-├── HR_Analytics.csv
+├── HR.png
+├── HRDshboard.csv
 ├── README.md
 └── LICENSE
 ```
