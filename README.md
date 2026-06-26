@@ -16,7 +16,7 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Excel Online**
 
 > Add your dashboard screenshot as **Dashboard.png** inside this repository.
 
-![HR Analytics Dashboard]
+![HR Analytics Dashboard]HR.png
 
 ---
 
@@ -49,7 +49,7 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Excel Online**
 
 The dataset used in this project is available in this repository.
 
-**File:** `HR_Analytics.csv`
+**File:** `HRDashboard.csv`
 
 ---
 
